@@ -14,7 +14,7 @@ CSV → Python ETL → BigQuery → SQL Analytics → Tableau
 ## BigQuery
 - Se crearon tablas a partir de de consultas.
 
-## Tools
+## Herramientas
 Python, Pandas, SQL, BigQuery, Tableau, Git
 
 ## Autor 
